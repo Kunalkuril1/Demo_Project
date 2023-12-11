@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-19">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/jquery-3.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/selenium-edge-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/selenium-firefox-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/selenium-ie-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/selenium-opera-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/selenium-safari-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/jar_files/testng-7.8.0.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/commons-compress-1.18.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/icu4j-4.6.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/java-cup-10k.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/org.eclipse.wst.xml.xpath2.processor-2.1.100.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/poi-4.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/poi-ooxml-4.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/poi-ooxml-schemas-4.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/xerces2-xsd11-2.11.1.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/xlsx-streamer-2.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/xmlbeans-3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/Automation Project/Software/Poi/xml-resolver-1.2.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
